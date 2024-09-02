@@ -1,0 +1,11 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+.AppleDB
+.AppleDesktop
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
